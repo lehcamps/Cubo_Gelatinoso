@@ -6,14 +6,15 @@ Notebook desenvolvido para a atividade "Cubo Gelatinoso", com o objetivo de estu
 ## Dataset
 [Amazon Top 50 Bestselling Books 2009-2019](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019), 550 registros de livros reais que estiveram entre os mais vendidos da Amazon nesse período.
 
-| Coluna | Tipo	| Descrição |
-| `Name` |	texto |	Título do livro (descartado — identificador único) |
-| `Author` |	categórico |	Autor do livro |
-| `User Rating` |	numérico |	Nota média do usuário |
-| `Reviews` |	numérico |	Número de avaliações |
-| `Price` |	numérico |	Preço do livro |
-| `Year`	| numérico	| Ano em que esteve na lista de mais vendidos |
-| `Genre` |	categórico (target)	| `Fiction` ou `Non Fiction` |
+| Coluna | Tipo | Descrição |
+|---|---|---|
+| `Name` | texto | Título do livro (descartado — identificador único) |
+| `Author` | categórico | Autor do livro |
+| `User Rating` | numérico | Nota média do usuário |
+| `Reviews` | numérico | Número de avaliações |
+| `Price` | numérico | Preço do livro |
+| `Year` | numérico | Ano em que esteve na lista de mais vendidos |
+| `Genre` | categórico (target) | `Fiction` ou `Non Fiction` |
 
 ## Estrutura do notebook
 1. Introdução
@@ -27,9 +28,10 @@ Notebook desenvolvido para a atividade "Cubo Gelatinoso", com o objetivo de estu
 9. Conclusão
 
 ## Resultados
-| Modelo | 	Acurácia no teste |
-| Baseline (`DummyClassifier`) |	60,00% |
-| k-NN (`n_neighbors=3`, `p=1`) |	82,73% |
+| Modelo | Acurácia no teste |
+|---|---|
+| Baseline (`DummyClassifier`) | 60,00% |
+| k-NN (`n_neighbors=3`, `p=1`) | 82,73% |
 
 ## Como rodar
 ```bash
