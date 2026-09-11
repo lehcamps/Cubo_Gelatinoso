@@ -25,7 +25,9 @@ Notebook desenvolvido para a atividade "Cubo Gelatinoso", com o objetivo de estu
 6. Normalização dos atributos
 7. Testando diferentes tipos de hiperparâmetros
 8. Modelo Final
-9. Conclusão
+9. Conclusão e principais aprendizados
+10. Descrição do uso de IA nesse trabalho
+11. Referências
 
 ## Resultados
 | Modelo | Acurácia no teste |
