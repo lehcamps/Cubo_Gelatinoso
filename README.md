@@ -1,4 +1,4 @@
-# Cubo_Gelatinoso
+# Cubo Gelatinoso
 
 ## Descrição
 Notebook desenvolvido para a atividade "Cubo Gelatinoso", com o objetivo de estudar o desempenho do algoritmo de k vizinhos mais próximos (k-NN) em uma tarefa de classificação binária, testando diferentes combinações de hiperparâmetros. Dado um livro que esteve entre os mais vendidos da Amazon, o modelo prevê se ele é um livro de ficção ou não-ficção, a partir de atributos como nota do usuário, número de avaliações, preço, ano e autor.
@@ -8,7 +8,7 @@ Notebook desenvolvido para a atividade "Cubo Gelatinoso", com o objetivo de estu
 
 | Coluna | Tipo | Descrição |
 |---|---|---|
-| `Name` | texto | Título do livro (descartado — identificador único) |
+| `Name` | texto | Título do livro (descartado, identificador único) |
 | `Author` | categórico | Autor do livro |
 | `User Rating` | numérico | Nota média do usuário |
 | `Reviews` | numérico | Número de avaliações |
@@ -76,4 +76,6 @@ CASSAR, Daniel R. **Divisão de dados em treino e teste: ATP-203 2.2**, Aprendiz
 CASSAR, Daniel R. **Modelo linear e baseline: ATP-203 3.0**, Aprendizado de Máquina. [Ilum Escola de Ciência], [2026]. 1 notebook Jupyter. Notas de aula.
 
 CASSAR, Daniel R. **Classificação binária: ATP-203 5.0**, Aprendizado de Máquina. [Ilum Escola de Ciência], [2026]. 1 notebook Jupyter. Notas de aula.
+
+SCIKIT-LEARN. **DistanceMetric — scikit-learn 1.9.1 documentation**. [S. l.]: scikit-learn developers, [20--]. Disponível em: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.DistanceMetric.html. Acesso em: 13 set. 2026.
 
