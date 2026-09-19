@@ -38,7 +38,7 @@ Notebook desenvolvido para a atividade "Cubo Gelatinoso", com o objetivo de estu
 ## Como rodar
 ```bash
 pip install pandas scikit-learn seaborn jupyter
-jupyter notebook cubo_gelatinoso_knn.ipynb
+jupyter notebook Cubo_Gelatinoso_Leticia.ipynb
 ```
 O notebook carrega o dataset diretamente de uma cópia pública no GitHub, então não é necessário baixar nenhum arquivo manualmente.
 
@@ -63,7 +63,7 @@ Doutorado: Ciência e Engenharia de Materiais (UFSCar) – Pós-doutorado: UFSCa
 
 Técnica em Edificações e estudante de Ciência e Tecnologia na Ilum Escola de Ciência.
 
-## Refências
+## Referências
 
 SOOTERSAALU. **Amazon Top 50 Bestselling Books 2009-2019**. Kaggle, 2020. Disponível em: https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019. Acesso em: 10 set. 2026.
 
